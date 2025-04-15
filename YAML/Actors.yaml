@@ -1,0 +1,211 @@
+---
+- 
+- !ruby/object:RPG::Actor
+  name: Golem
+  face_index: 0
+  character_index: 7
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: main
+  id: 1
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: Riggly
+  face_index: 0
+  character_index: 0
+  initial_level: 10
+  face_name: ''
+  class_id: 1
+  character_name: main
+  id: 2
+  features: []
+  note: ''
+  equips:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 3
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 4
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 5
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 6
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 7
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 8
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 9
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ''
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ''
+  class_id: 1
+  character_name: ''
+  id: 10
+  features: []
+  note: ''
+  equips:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  nickname: ''
+  description: ''
+  max_level: 99
+  icon_index: 0
