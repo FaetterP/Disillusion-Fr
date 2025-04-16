@@ -335,7 +335,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 3, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [1, 'Je m’en fous, et tu sens comme un vieux radis.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['Eh non non non, même les pommes pourries ont des sentiments idiot.']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['Eh non non non, même les pommes pourries ont des sentiments, idiot.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['S’il te plaît, laissse moi.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 123, p: [B, 0]}
@@ -353,7 +353,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['Si je te donne ça, tu vas me laisser tranquille ?']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 126, p: [1, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['*Vous avez reçu un cadeau de la part du monsieur étrange !*']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['*Vous avez reçu un cadeau de la part de l’homme étrange !*']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 123, p: [B, 0]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 0, p: []}
