@@ -1,7 +1,7 @@
 ---
 - 
 - !ruby/object:RPG::Item
-  description: Recovers 50 HP.
+  description: Soigne 50 HP.
   name: Potion
   consumable: true
   occasion: 0
@@ -31,7 +31,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Recovers 100 HP.
+  description: Soigne 100 HP.
   name: Hi-Potion
   consumable: true
   occasion: 0
@@ -61,7 +61,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Recovers all HP.
+  description: Soigne tout les HP.
   name: Full Potion
   consumable: true
   occasion: 0
@@ -91,8 +91,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Recovers 20 MP.
-  name: MP Juice
+  description: Redonne 20 MP.
+  name: Jus de MP 
   consumable: true
   occasion: 0
   icon_index: 260
@@ -121,8 +121,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "A rare Item Sold by caf. restores\r\n100 mp and HP as well as raising max mp by 10."
-  name: Malt Liqour
+  description: "Un objet rare vendu par Caf. Redonne\r\n100 mp et HP et augmente les mp totaux de 10."
+  name: Liqueur de Malt
   consumable: true
   occasion: 0
   icon_index: 260
@@ -161,7 +161,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Treats poison.
+  description: Soigne le poison.
   name: Antidote
   consumable: true
   occasion: 0
@@ -191,8 +191,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Treats many status ailments.
-  name: Dispel Herb
+  description: Traite de nombreuses affections liées à l'état de santé.
+  name: Dispel Herbe
   consumable: true
   occasion: 0
   icon_index: 111
@@ -246,7 +246,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Restores all HP and MP.
+  description: Redonne tout les HP et MP.
   name: Elixir
   consumable: true
   occasion: 0
@@ -281,7 +281,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases MaxHP by 50.
+  description: Augmente les HP max de 50.
   name: Life Up
   consumable: true
   occasion: 2
@@ -311,7 +311,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases MaxMP by 10.
+  description: Augmente les MP max de 10.
   name: Mana Up
   consumable: true
   occasion: 2
@@ -341,7 +341,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases ATK by 3.
+  description: Augmente la stat ATK de 3.
   name: Power Up
   consumable: true
   occasion: 2
@@ -371,7 +371,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases DEF by 3.
+  description: Augmente la stat DEF de 3.
   name: Guard Up
   consumable: true
   occasion: 2
@@ -401,7 +401,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases MAT by 3.
+  description: Augmente la stat MAT de 3.
   name: Magic Up
   consumable: true
   occasion: 2
@@ -431,7 +431,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases MDF by 3.
+  description: Augmente la stat MDF de 3.
   name: Resist Up
   consumable: true
   occasion: 2
@@ -461,7 +461,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases AGI by 3.
+  description: Augmente la stat AGI de 3.
   name: Speed Up
   consumable: true
   occasion: 2
@@ -491,7 +491,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: Increases LUK by 3.
+  description: Augmente la stat LUK de 3.
   name: Luck Up
   consumable: true
   occasion: 2
@@ -521,8 +521,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "Recovers 60 MP. You can not \r\nbuy these."
-  name: MP Juice XL
+  description: "Redonne 60 MP. Tu ne peux pas \r\nen acheter."
+  name: Jus de MP XL
   consumable: true
   occasion: 0
   icon_index: 260
@@ -551,8 +551,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "The last of it's kind, Probably the \r\nonly one in existence."
-  name: 'Menthol cigarette '
+  description: "Le dernier de son espèce, probablement la \r\nseule au monde."
+  name: 'Cigarette au menthol'
   consumable: false
   occasion: 0
   icon_index: 211
@@ -576,8 +576,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "Sardines and chowder. Recovers 50 hp\r\nand cures poison."
-  name: Deen Chowder
+  description: "Sardines et chaudrée. Soigne 50 hp\r\net guérit le poison."
+  name: Chaudrée de sardines
   consumable: true
   occasion: 0
   icon_index: 2
@@ -611,8 +611,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "A can of sardines that heals 50 Hp and 60 mp.\r\ncan not be bought at any known store."
-  name: Deen pack
+  description: "Une boîte de sardines redonnant 50 HP et 60 MP.\r\nNe peut être achêté à aucun magasin connu."
+  name: Boîte de sardines
   consumable: true
   occasion: 0
   icon_index: 0
@@ -646,8 +646,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: A key to a door
-  name: Key2
+  description: La clef d’une porte
+  name: Clef 2
   consumable: false
   occasion: 3
   icon_index: 0
@@ -671,8 +671,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: A key to a door
-  name: Key1
+  description: La clef d’une porte
+  name: Clef 1
   consumable: false
   occasion: 3
   icon_index: 0
@@ -696,8 +696,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: disables encounters.
-  name: No encounters on
+  description: Désactive les rencontres.
+  name: Désactivation des rencontres
   consumable: false
   occasion: 2
   icon_index: 0
@@ -727,7 +727,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Item
   description: ''
-  name: no encounters off
+  name: Rencontres désactivés
   consumable: false
   occasion: 2
   icon_index: 0
@@ -756,7 +756,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "Pork, beans, and jelly Recovers 100 hp\r\nand cures poison."
+  description: "Porc, haricots, and gelée. Soigne 100 hp\r\net guérit le poison."
   name: PBJ
   consumable: true
   occasion: 0
@@ -791,8 +791,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: A strange coin, what does it do?
-  name: Chii's Coin
+  description: Une pièce étrange, que fait-elle ?
+  name: Chii's Pièce
   consumable: false
   occasion: 3
   icon_index: 218
@@ -816,8 +816,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: It is wilting.
-  name: Pretty flower
+  description: Elle est en train de flétrir.
+  name: Jolie Fleur
   consumable: true
   occasion: 0
   icon_index: 218
@@ -851,8 +851,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: It is sweet and corny. recovers 50 hp
-  name: Sweet corn
+  description: Soigne 50 HP.
+  name: Maïs doux
   consumable: true
   occasion: 0
   icon_index: 218
@@ -881,7 +881,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: "An item that acts as a key to the \r\nbhool bhulaiya"
+  description: "Un objet servant de clef pour le \r\nbhool bhulaiya"
   name: candelabrum
   consumable: false
   occasion: 3
@@ -906,8 +906,8 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Item
-  description: It is not known who this may have belonged to
-  name: skull and feathers
+  description: On ne sait pas à qui il a pu appartenir.
+  name: crâne et plumes
   consumable: false
   occasion: 3
   icon_index: 239
