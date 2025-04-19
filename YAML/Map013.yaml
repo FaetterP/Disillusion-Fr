@@ -460,8 +460,8 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Peut-être qu’il peut te voir., Comment peut-on éviter le karma ?], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Peut-être qu’il peut te voir.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Les peuples personnes pouvant me voir sont ceux]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [qui ont un cerveau dérangé comme le tien.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Les seules personnes pouvant me voir sont celles]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [ayant un cerveau dérangé comme le tien.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['Qu’est-ce qui ne va pas avec moi ?'], 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'Qu’est-ce qui ne va pas avec moi ?']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
@@ -474,7 +474,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Tu as été crée pour souffrir. La manière dont]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['tu penses, agis, exprimes tes émotions, et perçoit']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [la réalité ont toutes été modifiées pour ne créer ]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [nrien d’autre que de la souffrance.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [rien d’autre que de la souffrance.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 231, p: [1, MEl17, 0, 0, 0, -30, 100, 90, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 222, p: []}
