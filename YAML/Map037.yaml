@@ -481,7 +481,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, MEl19, 0, 0, -4, 3, 100, 70, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Hé regarde, ce petit gars est amical.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Hé regarde, ce petit gars est tout choupi.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 201, p: [0, 50, 7, 8, 0, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
