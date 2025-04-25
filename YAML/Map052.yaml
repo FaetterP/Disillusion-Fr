@@ -101,7 +101,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['La raison de Mara et Mel étant incapable de l’arrêter,']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['l’énergie ne circule plus librement. Les Kleshas de']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['l’homme deviennent la tête de lance pour briser le cycle et']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['créer un nouveau monde sous un seul créateur.']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['créer un nouveau monde sous le contrôle d’un seul créateur.']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['L’arbre de Bodhi n’est plus, et la tour s’est effondrée']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['dans un marécage. La prison de Mara devient']}
@@ -289,7 +289,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['La raison de Mara et Mel étant incapable de l’arrêter,']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['l’énergie ne circule plus librement. Les Kleshas de']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['l’homme deviennent la tête de lance pour briser le cycle et']}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['créer un nouveau monde sous un seul créateur.']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['créer un nouveau monde sous le contrôle d’un seul créateur.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['L’arbre de Bodhi n’est plus, et la tour s’est effondrée']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['dans un marécage. La prison de Mara devient']}
@@ -489,7 +489,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['La raison de Mara et Mel étant incapable de l’arrêter,']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['l’énergie ne circule plus librement. Les Kleshas de']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['l’homme deviennent la tête de lance pour briser le cycle et']}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['créer un nouveau monde sous un seul créateur.']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['créer un nouveau monde sous le contrôle d’un seul créateur.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['L’arbre de Bodhi n’est plus, et la tour s’est effondrée']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['dans un marécage. La prison de Mara devient']}
