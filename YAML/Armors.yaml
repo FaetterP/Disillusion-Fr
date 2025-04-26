@@ -1,8 +1,8 @@
 ---
 - 
 - !ruby/object:RPG::Armor
-  description: Old stiff socks. Gives 1 DEF
-  name: Socks
+  description: Vieilles chaussettes rigides. Donne 1 DEF.
+  name: Chaussettes
   icon_index: 0
   price: 100
   note: ''
@@ -24,8 +24,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: Hands off. Gives 3 MAT
-  name: Spiked Bra
+  description: Pas touche. Donne 3 MAT.
+  name: Soutien-gorge à pointes
   icon_index: 0
   price: 300
   note: ''
@@ -47,8 +47,8 @@
   etype_id: 3
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: It looks happy. Gives 3 DEF
-  name: Smiley Face Shirt
+  description: Il a l’air heureux. Donne 3 DEF.
+  name: T-shirt sourire
   icon_index: 0
   price: 2000
   note: ''
@@ -70,8 +70,8 @@
   etype_id: 3
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "Pit Snake Brand. Not approved by the safety\r\ndepartment. gives 4 MDF"
-  name: Pit Snake Shades
+  description: "Marque Pit Snake. Non approuvé par le département\r\nde sécurité. Donne 4 MDF."
+  name: Lunettes Pit Snake
   icon_index: 0
   price: 5000
   note: ''
@@ -93,8 +93,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "Didn't that guy who wrote that songabout \r\nless rain wear this? Gives 7 MDF"
-  name: Bent fork necklace
+  description: "Ce gars qui a écrit cette chanson sur\r\nmoins de pluie ne portait-il pas ça ? Donne 7 MDF."
+  name: Collier fourche tordue
   icon_index: 0
   price: 8000
   note: ''
@@ -116,8 +116,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "Nuts that hang on the back of a trailer hitch\r\ngives 6 DEF"
-  name: Truck Nuts
+  description: "Noix qui pendent à l’arrière d’un attelage\r\nde remorque. Donne 6 DEF."
+  name: Noix de camion
   icon_index: 0
   price: 100
   note: ''
@@ -139,8 +139,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "Cat ear headband, you look ridiculous \r\nGives 1 DEF and 7 MAT"
-  name: Cat ears
+  description: "Serre-tête oreilles de chat, tu as l’air ridicule.\r\nDonne 1 DEF et 7 MAT."
+  name: Oreilles de chat
   icon_index: 0
   price: 500
   note: ''
@@ -162,8 +162,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "It's a sticker of a laughing demon. \r\nIt's said to give you divine power. Does it?"
-  name: Demon sticker
+  description: "C’est un autocollant d’un démon rieur.\r\nOn dit qu’il te donnerait un pouvoir divin. Est-ce vrai ?"
+  name: Autocollant démon
   icon_index: 0
   price: 1
   note: ''
@@ -185,8 +185,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A goofy looking suit, worn by caf.
-  name: Goof Suit
+  description: Un costume ridicule, porté par caf.
+  name: Costume ridicule
   icon_index: 7
   price: 4000
   note: ''
@@ -208,8 +208,8 @@
   etype_id: 3
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "A gift from caf after he became the ruler \r\nof pork purgatory. people call him big pig now"
-  name: Golden Pig Chain
+  description: "Un cadeau de caf après qu’il soit devenu le souverain\r\ndu purgatoire de porc. Les gens l’appellent maintenant gros cochon."
+  name: Chaîne de cochon dorée
   icon_index: 237
   price: 6500
   note: ''
@@ -231,8 +231,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: "scales from lord Oonbanoonboaa.\r\nmakes great armor. makes you weak to lightning."
-  name: Lord's scales
+  description: "Écailles du seigneur Oonbanoonboaa.\r\nFait une excellente armure. Te rend faible à la foudre."
+  name: Écailles du seigneur
   icon_index: 7
   price: 100
   note: ''
@@ -258,8 +258,8 @@
   etype_id: 3
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: women fear me, fish fear me......
-  name: Lord's secret hat.
+  description: Les femmes me craignent, les poissons me craignent...
+  name: Chapeau secret du seigneur
   icon_index: 219
   price: 500
   note: ''
@@ -281,8 +281,8 @@
   etype_id: 2
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A lined robe engraved with runes.
-  name: Runed Robe
+  description: Une robe doublée gravée de runes.
+  name: Robe runique
   icon_index: 171
   price: 3000
   note: ''
@@ -304,8 +304,8 @@
   etype_id: 3
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: An altered version of Caf's pig chain.
-  name: Platinum pig Chain
+  description: Une version modifiée de la chaîne de cochon de Caf.
+  name: Chaîne de cochon platine
   icon_index: 239
   price: 8000
   note: ''
@@ -351,8 +351,8 @@
   etype_id: 3
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: The power of the spirit king dwells in this robe.
-  name: Elemental Cloak
+  description: Le pouvoir du roi des esprits réside dans cette robe.
+  name: Cape élémentaire
   icon_index: 7
   price: 13000
   note: ''
@@ -402,8 +402,8 @@
   etype_id: 1
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: Hair ornaments made of copper.
-  name: Copper Brace
+  description: Ornements capillaires en cuivre.
+  name: Bracelet en cuivre
   icon_index: 166
   price: 100
   note: ''
@@ -425,8 +425,8 @@
   etype_id: 2
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: A ring-shaped ornament made of iron.
-  name: Circlet
+  description: Un ornement en forme d’anneau fait de fer.
+  name: Diadème
   icon_index: 166
   price: 400
   note: ''
@@ -448,8 +448,8 @@
   etype_id: 2
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: Hair accessory that enhances magic.
-  name: Silver Hairpin
+  description: Accessoire capillaire qui améliore la magie.
+  name: Épingle à cheveux en argent
   icon_index: 166
   price: 2500
   note: ''
@@ -471,8 +471,8 @@
   etype_id: 2
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: Mithril circlet made of the magic mineral.
-  name: Mithril Circlet
+  description: Diadème en mithril fait à partir de minéraux magiques.
+  name: Diadème en mithril
   icon_index: 166
   price: 6000
   note: ''
@@ -494,8 +494,8 @@
   etype_id: 2
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: Empowered by an ancient magical civilization's power.
-  name: Magi's Crown
+  description: Imprégné du pouvoir d’une ancienne civilisation magique.
+  name: Couronne du mage
   icon_index: 166
   price: 10000
   note: ''
@@ -517,8 +517,8 @@
   etype_id: 2
   atype_id: 2
 - !ruby/object:RPG::Armor
-  description: Armour made with overlapping leather.
-  name: Leather Mail
+  description: Armure faite de cuir superposé.
+  name: Cotte de cuir
   icon_index: 169
   price: 100
   note: ''
@@ -540,8 +540,8 @@
   etype_id: 3
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A breastplate made of bronze.
-  name: Bronze Plate
+  description: Une cuirasse en bronze.
+  name: Cuirasse en bronze
   icon_index: 169
   price: 400
   note: ''
@@ -563,8 +563,8 @@
   etype_id: 3
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A breastplate made of iron.
-  name: Iron Plate
+  description: Une cuirasse en fer.
+  name: Cuirasse en fer
   icon_index: 169
   price: 2700
   note: ''
@@ -586,8 +586,8 @@
   etype_id: 3
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: Mithril breastplate made of the magic mineral.
-  name: Mithril Plate
+  description: Cuirasse en mithril fait à partir de minéraux magiques.
+  name: Cuirasse en mithril
   icon_index: 169
   price: 7000
   note: ''
@@ -609,8 +609,8 @@
   etype_id: 3
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A breastplate made from dragon scales.
-  name: Dragon Plate
+  description: Une cuirasse faite d’écailles de dragon.
+  name: Cuirasse de dragon
   icon_index: 169
   price: 12000
   note: ''
@@ -636,8 +636,8 @@
   etype_id: 3
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A hat made out of leather.
-  name: Leather Hap
+  description: Un chapeau fait de cuir.
+  name: Chapeau en cuir
   icon_index: 163
   price: 100
   note: ''
@@ -659,8 +659,8 @@
   etype_id: 2
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A reinforced hat made with bronze.
-  name: Bronze Cap
+  description: Un chapeau renforcé fait de bronze.
+  name: Casquette en bronze
   icon_index: 163
   price: 350
   note: ''
@@ -682,8 +682,8 @@
   etype_id: 2
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A hat made with steel.
-  name: Sarett
+  description: Un chapeau fait d’acier.
+  name: Casque
   icon_index: 163
   price: 2400
   note: ''
@@ -705,8 +705,8 @@
   etype_id: 2
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: Mithril cap made of the magic mineral.
-  name: Mithril Cap
+  description: Casquette en mithril faite à partir de minéraux magiques.
+  name: Casquette en mithril
   icon_index: 163
   price: 5500
   note: ''
@@ -728,8 +728,8 @@
   etype_id: 2
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: A hat made of dragon scales.
-  name: Dragon Cap
+  description: Un chapeau fait d’écailles de dragon.
+  name: Casquette de dragon
   icon_index: 163
   price: 9500
   note: ''
@@ -755,8 +755,8 @@
   etype_id: 2
   atype_id: 3
 - !ruby/object:RPG::Armor
-  description: Armour made with iron chains.
-  name: Chain Mail
+  description: Armure faite de chaînes en fer.
+  name: Cotte de mailles
   icon_index: 170
   price: 100
   note: ''
@@ -782,8 +782,8 @@
   etype_id: 3
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Armour made of steel.
-  name: Iron Armour
+  description: Armure faite d’acier.
+  name: Armure en fer
   icon_index: 170
   price: 800
   note: ''
@@ -809,8 +809,8 @@
   etype_id: 3
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Knights wear plate mail.
-  name: Plate Mail
+  description: Les chevaliers portent des cottes de mailles.
+  name: Cotte de chevalier
   icon_index: 170
   price: 3600
   note: ''
@@ -836,8 +836,8 @@
   etype_id: 3
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Mithril armour made of the magic mineral.
-  name: Mithril Armour
+  description: Armure en mithril faite à partir de minéraux magiques.
+  name: Armure en mithril
   icon_index: 170
   price: 8000
   note: ''
@@ -859,8 +859,8 @@
   etype_id: 3
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Armour made from dragon scales.
-  name: Dragon Armour
+  description: Armure faite d’écailles de dragon.
+  name: Armure de dragon
   icon_index: 170
   price: 15000
   note: ''
@@ -890,8 +890,8 @@
   etype_id: 3
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Helmet made of iron chains.
-  name: Chain Helm
+  description: Casque fait de chaînes en fer.
+  name: Casque en mailles
   icon_index: 164
   price: 100
   note: ''
@@ -917,8 +917,8 @@
   etype_id: 2
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Helmet made of steel.
-  name: Iron Helm
+  description: Casque fait d’acier.
+  name: Casque en fer
   icon_index: 164
   price: 600
   note: ''
@@ -944,8 +944,8 @@
   etype_id: 2
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Knights wear this helm.
-  name: Knight Helm
+  description: Les chevaliers portent ce casque.
+  name: Casque de chevalier
   icon_index: 164
   price: 3000
   note: ''
@@ -971,8 +971,8 @@
   etype_id: 2
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Mithril helm made of the magic mineral.
-  name: Mithril Helm
+  description: Casque en mithril fait à partir de minéraux magiques.
+  name: Casque en mithril
   icon_index: 164
   price: 7000
   note: ''
@@ -994,8 +994,8 @@
   etype_id: 2
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: Helmet made of dragon scales.
-  name: Dragon Helm
+  description: Casque fait d’écailles de dragon.
+  name: Casque de dragon
   icon_index: 164
   price: 12000
   note: ''
@@ -1025,8 +1025,8 @@
   etype_id: 2
   atype_id: 4
 - !ruby/object:RPG::Armor
-  description: A small shield used to fend off attacks.
-  name: Buckler
+  description: Un petit bouclier utilisé pour repousser les attaques.
+  name: Bouclier
   icon_index: 160
   price: 100
   note: ''
@@ -1048,8 +1048,8 @@
   etype_id: 1
   atype_id: 5
 - !ruby/object:RPG::Armor
-  description: A circular shield with a reinforced steel frame.
-  name: Round Shield
+  description: Un bouclier circulaire avec un cadre en acier renforcé.
+  name: Bouclier rond
   icon_index: 160
   price: 300
   note: ''
@@ -1071,8 +1071,8 @@
   etype_id: 1
   atype_id: 5
 - !ruby/object:RPG::Armor
-  description: A shield with spikes on its surface for offense.
-  name: Spike Shield
+  description: Un bouclier avec des pointes sur sa surface pour l’offensive.
+  name: Bouclier à pointes
   icon_index: 160
   price: 1800
   note: ''
@@ -1094,8 +1094,8 @@
   etype_id: 1
   atype_id: 5
 - !ruby/object:RPG::Armor
-  description: Mithril buckler made of the magic mineral.
-  name: Mithril Buckler
+  description: Bouclier en mithril fait à partir de minéraux magiques.
+  name: Bouclier en mithril
   icon_index: 160
   price: 4500
   note: ''
@@ -1117,8 +1117,8 @@
   etype_id: 1
   atype_id: 5
 - !ruby/object:RPG::Armor
-  description: Buckler made of dragon scales.
-  name: Dragon Buckler
+  description: Bouclier fait d’écailles de dragon.
+  name: Bouclier de dragon
   icon_index: 160
   price: 7000
   note: ''
@@ -1144,8 +1144,8 @@
   etype_id: 1
   atype_id: 5
 - !ruby/object:RPG::Armor
-  description: A shield made with hard wood.
-  name: Wood Shield
+  description: Un bouclier fait de bois dur.
+  name: Bouclier en bois
   icon_index: 161
   price: 100
   note: ''
@@ -1175,8 +1175,8 @@
   etype_id: 1
   atype_id: 6
 - !ruby/object:RPG::Armor
-  description: Shield made of steel.
-  name: Iron Shield
+  description: Bouclier fait d’acier.
+  name: Bouclier en fer
   icon_index: 161
   price: 700
   note: ''
@@ -1206,8 +1206,8 @@
   etype_id: 1
   atype_id: 6
 - !ruby/object:RPG::Armor
-  description: Knights use this shield.
-  name: Knight Shield
+  description: Les chevaliers utilisent ce bouclier.
+  name: Bouclier de chevalier
   icon_index: 161
   price: 3400
   note: ''
@@ -1237,8 +1237,8 @@
   etype_id: 1
   atype_id: 6
 - !ruby/object:RPG::Armor
-  description: Mithril shield made of the magic mineral.
-  name: Mithril Shield
+  description: Bouclier en mithril fait à partir de minéraux magiques.
+  name: Bouclier en mithril
   icon_index: 161
   price: 7500
   note: ''
@@ -1264,8 +1264,8 @@
   etype_id: 1
   atype_id: 6
 - !ruby/object:RPG::Armor
-  description: Shield made of dragon scales.
-  name: Dragon Shield
+  description: Bouclier fait d’écailles de dragon.
+  name: Bouclier de dragon
   icon_index: 161
   price: 13500
   note: ''
@@ -1299,8 +1299,8 @@
   etype_id: 1
   atype_id: 6
 - !ruby/object:RPG::Armor
-  description: Metal belt engraved with the War God's name.
-  name: War God's Belt
+  description: Ceinture en métal gravée du nom du dieu de la guerre.
+  name: Ceinture du dieu de la guerre
   icon_index: 179
   price: 3000
   note: ''
@@ -1322,8 +1322,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: Hung at the magic forest for defense.
-  name: Defense Piece
+  description: Suspendu dans la forêt magique pour la défense.
+  name: Pièce de défense
   icon_index: 179
   price: 3000
   note: ''
@@ -1345,8 +1345,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: The holy spirit of the wind dwell in these boots.
-  name: Winged Boots
+  description: Les esprits sacrés du vent résident dans ces bottes.
+  name: Bottes ailées
   icon_index: 179
   price: 3000
   note: ''
@@ -1368,8 +1368,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: The power of the earth protects the wearer.
-  name: Earth's Embrace
+  description: Le pouvoir de la terre protège le porteur.
+  name: Étreinte de la terre
   icon_index: 179
   price: 3000
   note: ''
@@ -1415,8 +1415,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A charm engraved with the name of the goddess of luck.
-  name: Lucky Charm
+  description: Un charme gravé du nom de la déesse de la chance.
+  name: Charme porte-bonheur
   icon_index: 179
   price: 5000
   note: ''
@@ -1438,8 +1438,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A symbol worn by those who serve God.
-  name: Holy Symbol
+  description: Un symbole porté par ceux qui servent Dieu.
+  name: Symbole sacré
   icon_index: 179
   price: 5000
   note: ''
@@ -1485,8 +1485,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A ring with the hidden power of a genie.
-  name: Solomon's Ring
+  description: Une bague avec le pouvoir caché d’un génie.
+  name: Anneau de Salomon
   icon_index: 179
   price: 5000
   note: ''
@@ -1512,8 +1512,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: A magic necklace that empowers those who fight.
-  name: Odin's Necklace
+  description: Un collier magique qui renforce le pouvoir de ceux qui combattent avec.
+  name: Collier d’Odin
   icon_index: 179
   price: 5000
   note: ''
@@ -1543,8 +1543,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: An eyepatch worn by powerful berserkers.
-  name: Eyepatch of Fury
+  description: Un cache-œil porté par de puissants berserkers.
+  name: Cache-œil de la fureur
   icon_index: 179
   price: 5000
   note: ''
@@ -1566,8 +1566,8 @@
   etype_id: 4
   atype_id: 1
 - !ruby/object:RPG::Armor
-  description: The king of gods dwell in this talisman.
-  name: Talisman of Light
+  description: Le roi des dieux réside dans ce talisman.
+  name: Talisman de lumière
   icon_index: 179
   price: 5000
   note: ''

@@ -2,8 +2,8 @@
 - 
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Damages the enemy.
-  name: Attack
+  description: Inflige des dégâts à l’ennemi.
+  name: Attaque
   occasion: 1
   icon_index: 255
   message1: ' attacks!'
@@ -36,8 +36,8 @@
   tp_gain: 5
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Protects user and reduces damage taken.
-  name: Guard
+  description: Protège l’utilisateur de la capacité et réduit les dégâts subis.
+  name: Défense
   occasion: 1
   icon_index: 0
   message1: ' guards.'
@@ -70,8 +70,8 @@
   tp_gain: 4
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Hits an enemy twice!
-  name: Dual Attack
+  description: Frappe un ennemi deux fois !
+  name: Double Attaque
   occasion: 1
   icon_index: 80
   message1: ' attacks!'
@@ -104,8 +104,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Attacks two random enemies. uses 17 mp
-  name: Double Attack
+  description: Attaque deux ennemis aléatoires. Utilise 17 PM.
+  name: Double Frappe
   occasion: 1
   icon_index: 80
   message1: ' attacks!'
@@ -138,8 +138,8 @@
   tp_gain: 3
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Attacks three random enemies. uses 30 mp
-  name: Triple Attack
+  description: Attaque trois ennemis aléatoires. Utilise 30 PM.
+  name: Triple Frappe
   occasion: 1
   icon_index: 87
   message1: ' attacks!'
@@ -172,8 +172,8 @@
   tp_gain: 2
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Enemy action. Causes enemy to flee from battle.
-  name: Escape
+  description: Action ennemie. Fait fuir l’ennemi du combat.
+  name: Fuite
   occasion: 1
   icon_index: 32
   message1: ' flees.'
@@ -206,8 +206,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Does nothing.
-  name: Wait
+  description: Ne fait rien.
+  name: Attente
   occasion: 1
   icon_index: 0
   message1: ' waits.'
@@ -380,8 +380,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Damages the enemy.
-  name: Scratches
+  description: Inflige des dégâts à l’ennemi.
+  name: Griffures
   occasion: 1
   icon_index: 0
   message1: Scratches!
@@ -530,8 +530,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "85% chance to sap some health from a\r\n random enemy uses 5 mp"
-  name: Sap
+  description: "85% de chance de voler de la santé à un\r\nennemi aléatoire. Utilise 5 PM."
+  name: Siphon
   occasion: 1
   icon_index: 2
   message1: ' uses Sap!'
@@ -559,7 +559,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Fire damage to 1 enemy. uses 6 mp
+  description: Inflige des dégâts de feu à un ennemi. Utilise 6 PM.
   name: Toast
   occasion: 1
   icon_index: 210
@@ -588,8 +588,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Poisons 1 Random enemy.
-  name: Toxic
+  description: Empoisonne un ennemi aléatoire.
+  name: Toxique
   occasion: 1
   icon_index: 70
   message1: ' uses Toxic!'
@@ -622,7 +622,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Frost damage to 1 enemy uses 6 mp
+  description: Inflige des dégâts de givre à un ennemi. Utilise 6 PM.
   name: Frost
   occasion: 0
   icon_index: 212
@@ -651,7 +651,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: ' Thunder damage to 1 enemy uses 6 mp'
+  description: Inflige des dégâts de foudre à un ennemi. Utilise 6 PM.
   name: Zap
   occasion: 0
   icon_index: 213
@@ -680,8 +680,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "Counters For 3 Turns\r\n70% chance to cast"
-  name: Stanced
+  description: "Contre-attaque pendant 3 tours.\r\n70% de chance de réussir."
+  name: Posture
   occasion: 1
   icon_index: 255
   message1: Is going to counter!
@@ -714,8 +714,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "Raises defence for 3 turns \r\n50% chance to cast uses 3 mp"
-  name: Stoneflesh
+  description: "Augmente la défense pendant 3 tours.\r\n50% de chance de réussir. Utilise 3 PM."
+  name: Chair de pierre
   occasion: 0
   icon_index: 255
   message1: Raises defence!
@@ -748,8 +748,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Reflect Magic on the next turn
-  name: Reflect Magic
+  description: Réfléchit la magie au prochain tour.
+  name: Barrière magique
   occasion: 0
   icon_index: 255
   message1: is going to reflect magic!
@@ -782,7 +782,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "Sacrifice 25% of your health and recover 25% \r\nof your magic."
+  description: "Sacrifie 25% de ta santé et récupère 25%\r\nde ta magie."
   name: Sacrifice
   occasion: 0
   icon_index: 2
@@ -966,8 +966,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "Earth damage to 1 enemy. Do not \r\neat the rocks. uses 8 mp"
-  name: Stone Toss
+  description: "Inflige des dégâts de terre à un ennemi.\r\n ne mange pas les cailloux. Utilise 8 PM."
+  name: Lancer de pierre
   occasion: 1
   icon_index: 209
   message1: ' uses Stone Toss!'
@@ -995,8 +995,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "Water damage to 1 enemy. Do not \r\neat the bubbles. uses 6 mp"
-  name: Bubbles
+  description: "Inflige des dégâts d’eau à un ennemi.\r\nne mange pas les bulles. Utilise 6 PM."
+  name: Bulles
   occasion: 0
   icon_index: 108
   message1: ' uses Bubbles!'
@@ -1024,8 +1024,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Wind damage to 1 enemy. uses 6 mp
-  name: Gust
+  description: Inflige des dégâts de vent à un ennemi. Utilise 6 PM.
+  name: Rafale
   occasion: 0
   icon_index: 107
   message1: ''
@@ -1087,7 +1087,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "a darkness based attack.\r\nSkilled users look away when casting. uses 11 mp"
+  description: "Une attaque basée sur les ténèbres.\r\nLes utilisateurs expérimentés détournent le regard en la lançant. Utilise 11 PM."
   name: Wraith
   occasion: 0
   icon_index: 0
@@ -1116,8 +1116,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Increase one ally's DEF. uses 8 mp
-  name: Breath Armour
+  description: Augmente la DEF d’un allié. Utilise 8 PM.
+  name: Armure de vent
   occasion: 1
   icon_index: 16
   message1: ' casts Breath Armour!'
@@ -1150,8 +1150,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Increase one ally's MDF. uses 7 mp
-  name: Divine Breath
+  description: Augmente la MDF d’un allié. Utilise 7 PM.
+  name: Souffle divin
   occasion: 1
   icon_index: 20
   message1: ' casts Divine Breath!'
@@ -1184,7 +1184,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Lower all enemies' ATK. uses 7 mp
+  description: Réduit l’ATK de tous les ennemis. Utilise 7 PM.
   name: Scare
   occasion: 1
   icon_index: 24
@@ -1218,8 +1218,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Lower all enemies' DEF. uses 8 mp
-  name: 'Fright '
+  description: Réduit la DEF de tous les ennemis. Utilise 8 PM.
+  name: Fright
   occasion: 1
   icon_index: 26
   message1: ' casts Fright !'
@@ -1252,8 +1252,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Lower all enemies' MDF. uses 7 mp
-  name: Magic Rod
+  description: Réduit la MDF de tous les ennemis. Utilise 7 PM.
+  name: Bâton magique
   occasion: 1
   icon_index: 29
   message1: ' casts Magic Rod!'
@@ -1286,7 +1286,7 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Cancels enemy enchantments. uses 5 mp
+  description: Annule les enchantements ennemis. Utilise 5 PM.
   name: Dispel
   occasion: 1
   icon_index: 159
@@ -1384,8 +1384,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: For 5 turns, greatly increase user's MAT.
-  name: Enhance Spell
+  description: Augmente considérablement la MAT de l’utilisateur de la compétence pendant 5 tours.
+  name: Amélioration de sort
   occasion: 1
   icon_index: 23
   message1: ' uses Enhance Spell!'
@@ -1423,8 +1423,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Increase one ally's ATK. uses 9 mp
-  name: Breath Weapon
+  description: Augmente l’ATK d’un allié. Utilise 9 PM.
+  name: Arme de souffle
   occasion: 1
   icon_index: 18
   message1: ' casts Breath Weapon!'
@@ -1457,8 +1457,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: do nothing.
-  name: Nothiing
+  description: Ne fait rien.
+  name: Rien
   occasion: 0
   icon_index: 0
   message1: ' does Nothiing!'
@@ -1486,8 +1486,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Only lil bees know how to do this.
-  name: pollinate
+  description: Seules les petites abeilles savent faire cela.
+  name: Pollinisation
   occasion: 0
   icon_index: 5
   message1: ' casts pollinate!'
@@ -1515,8 +1515,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Poison all enemies.
-  name: Poison Cloud
+  description: Empoisonne tous les ennemis.
+  name: Nuage toxique
   occasion: 1
   icon_index: 70
   message1: ' uses Poison Cloud!'
@@ -1549,8 +1549,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Blinds all enemies.
-  name: Dark Cloud
+  description: Aveugle tous les ennemis.
+  name: Nuage sombre
   occasion: 1
   icon_index: 232
   message1: ' uses Dark Cloud!'
@@ -1583,8 +1583,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Confuses all enemies. uses 8 mp
-  name: Sonic Wave
+  description: Rend confus tous les ennemis. Utilise 8 PM.
+  name: Onde sonore
   occasion: 1
   icon_index: 141
   message1: ' uses Sonic Wave'
@@ -1617,8 +1617,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Attempt to stun an enemy. uses 5 mp
-  name: Sweep Kick
+  description: Chance d’étourdir un ennemi. Utilise 5 PM.
+  name: Balayage
   occasion: 1
   icon_index: 175
   message1: ' uses Sweep Kick!'
@@ -1651,8 +1651,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Cures poison and paralsys. uses 10 mp
-  name: Cure
+  description: Soigne le poison et la paralysie. Utilise 10 PM.
+  name: Soin
   occasion: 0
   icon_index: 2
   message1: ' casts Cure!'
@@ -1690,8 +1690,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Cures many status ailments. uses 8 mp
-  name: Cure II
+  description: Soigne de nombreux états anormaux. Utilise 8 PM.
+  name: Soin II
   occasion: 0
   icon_index: 7
   message1: ' casts Cure II!'
@@ -1749,8 +1749,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Increase one ally's AGI. uses 6 mp
-  name: Quick Move
+  description: Augmente l’AGI d’un allié. Utilise 6 PM.
+  name: Mouvement rapide
   occasion: 1
   icon_index: 39
   message1: ' casts Quick Move!'
@@ -1783,8 +1783,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Lower all enemies' AGI. uses 6 mp
-  name: Slow Move
+  description: Réduit l’AGI de tous les ennemis. Utilise 6 PM.
+  name: Mouvement lent
   occasion: 1
   icon_index: 32
   message1: ' casts Slow Move!'
@@ -1817,8 +1817,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: Damages the enemy.
-  name: Attack
+  description: Inflige des dégâts à l’ennemi.
+  name: Attaque
   occasion: 1
   icon_index: 255
   message1: ' attacks!'
@@ -1851,8 +1851,8 @@
   tp_gain: 5
 - !ruby/object:RPG::Skill
   message2: ''
-  description: 15% chance to insant kill. uses 25 mp
-  name: Death
+  description: 15% de chance de tuer instantanément. Utilise 25 PM.
+  name: Mort
   occasion: 1
   icon_index: 0
   message1: ' casts Wraith!'
@@ -1880,8 +1880,8 @@
   tp_gain: 0
 - !ruby/object:RPG::Skill
   message2: ''
-  description: "a Light based attack.\r\nSkilled users look away when casting. uses 7 mp"
-  name: Holy Lance
+  description: "Une attaque basée sur la lumière.\r\nLes utilisateurs expérimentés détournent le regard en la lançant. Utilise 7 PM."
+  name: Lance sacrée
   occasion: 0
   icon_index: 0
   message1: ' casts Holy Lance!'
