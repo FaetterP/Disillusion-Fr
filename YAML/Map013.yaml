@@ -457,7 +457,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Et pour une raison quelconque, il peut également']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['quitter la tour. D’habitude, personne le peut,']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [à moins qu’ils évitent le cycle Karmique.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Peut-être qu’il peut te voir., Comment peut-on éviter le karma ?], 2]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Peut-être qu’il peut te voir., 'Comment peut-on éviter le karma ?'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Peut-être qu’il peut te voir.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Les seules personnes pouvant me voir sont celles]}
@@ -490,7 +490,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Comment peut-on éviter le karma ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, 'Comment peut-on éviter le karma ?']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, MEl16, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
@@ -783,7 +783,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Ils me parlent à moi aussi. Si mon sang se fait pomper, ']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['je les entends me parler. Ils disent: "Gertrude ?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Est-ce que tu t’es douchée aujourd’hui ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Est-ce que tu t’es douchée aujourd’hui ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   13: !ruby/object:RPG::Event
     id: 13

@@ -435,7 +435,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Je suis trop lunatique, un gars un peu bipolaire  !']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Mais je n’ai plus le cœur à ça...]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Devrais-je arrêter ça  ou devrais-je disparaître ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Devrais-je arrêter ça  ou devrais-je disparaître ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Arrêter', 'Disparaître'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Arrêter']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
@@ -503,7 +503,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Bonjour, tu as sûrement utilisé le service de conseils']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [de mes compagnons auparavant. Comment évaluerais-tu leurs conseils ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['de mes compagnons auparavant. Comment évaluerais-tu leurs conseils ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Plutôt bien.', 'Horrible.'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Plutôt bien.']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}

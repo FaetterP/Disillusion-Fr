@@ -545,7 +545,7 @@ events:
           - !ruby/object:RPG::MoveCommand {code: 0, parameters: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 505, p: [*5]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Pourquoi ne puis-je pas sourire ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Pourquoi ne puis-je pas sourire ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 301, p: [0, 41, false, false]}
       - !ruby/object:RPG::EventCommand
         i: 0
@@ -696,7 +696,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 505, p: [*9]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Là tout de suite, je pourrais tuer pour un']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [buffet chinois. Et toi ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['buffet chinois. Et toi ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Je n’ai pas faim., 'Ouais, évidemment.'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Je n’ai pas faim.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
@@ -851,7 +851,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Une étrange machine est sortie de l’océan.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Allez-vous interagir avec elle ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Allez-vous interagir avec elle ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Oui., Non.], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Oui.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
@@ -1133,7 +1133,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Bons produits. Biens de qualités.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Désires-tu plus d’habits mignons ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Désires-tu plus d’habits mignons ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Oui', 'Non'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Oui']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}

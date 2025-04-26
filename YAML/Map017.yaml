@@ -1137,7 +1137,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Est-ce que tu t’es déjà posé des questions sur les]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['créatures cryptiques, comme celles dont']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [on raconte des histoires effrayantes ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['on raconte des histoires effrayantes ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Oui', 'Non'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Oui']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}

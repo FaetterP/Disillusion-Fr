@@ -1086,7 +1086,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [CAW CAW CAW CAW CAW CAW]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Tu veux savoir ce que ça fait quand tout est fini ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Tu veux savoir ce que ça fait quand tout est fini ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['C’est un peu comme Noël.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Quand est-ce que ça se finit ?', 'Noël ?'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Quand est-ce que ça se finit ?']}

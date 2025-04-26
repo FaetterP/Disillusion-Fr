@@ -311,7 +311,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Tu l’as fait ? Bien. Je vais te dire comment']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [sortir d’ici. J’ai trouvé comment faire pendant]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['que tu étais occupé. Le hall central à l’avant']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [de la photo ? Avance tout droit et tu...]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['de la photo ? Avance tout droit et tu...']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [passeras à travers le mur.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1017,7 +1017,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Je vois que tu grimpes toujours. Désires-tu']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [des conseils ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['des conseils ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Évidemment., Non.], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Évidemment.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}

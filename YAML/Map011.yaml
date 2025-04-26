@@ -1392,7 +1392,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je pensais ne jamais te revoir !]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Est-ce que tu es toujours en train de faire']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [des choses importantes ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['des choses importantes ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Et Comment va Mel ?? Elle me manque.....']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Je t’aime, mon ami. Te voir a rendu']}

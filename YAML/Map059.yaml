@@ -834,7 +834,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['si je retrouvais son confort une nouvelle fois.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Est-ce que tu peux me dire ce que le soleil te]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [fait ressentir ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['fait ressentir ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[C’est un peu comme une couverture chaude, Je ne sais pas.], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, C’est un peu comme une couverture chaude]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}

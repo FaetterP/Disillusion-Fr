@@ -162,7 +162,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Non ! Ce n’est pas possible...ça doit être...Autre part !]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Mais comment est-ce que je pourrais retrouver quelque']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['chose comme ça sans aide ? Oh, c’est vrai ! Les clefs !']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Tu veux une clef ? Prend la.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Tu veux une clef ? Prend la.']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 126, p: [22, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['*Vous obtenez la Clef 1*']}
@@ -693,7 +693,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Ah le voyageur de l’Agora ! Tu aimerais avoir']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [quelques conseils ?]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['quelques conseils ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Évidemment, 'non'], 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Évidemment]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
