@@ -295,7 +295,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Katt
+  name: Chatt
   gold: 4
   battler_hue: 0
   exp: 60
@@ -437,7 +437,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Fly
+  name: Mouche
   gold: 2
   battler_hue: 0
   exp: 60
@@ -581,7 +581,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: fleshree
+  name: Arbre de chair
   gold: 0
   battler_hue: 0
   exp: 0
@@ -633,7 +633,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: ftree3
+  name: Arbre de chair 3
   gold: 0
   battler_hue: 0
   exp: 0
@@ -891,7 +891,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Bug Lord
+  name: Seigneur des insectes
   gold: 0
   battler_hue: 40
   exp: 70
@@ -943,7 +943,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Beets
+  name: Betterave
   gold: 30
   battler_hue: 0
   exp: 250
@@ -1017,7 +1017,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Beets
+  name: Betterave
   gold: 25
   battler_hue: 0
   exp: 100
@@ -1685,7 +1685,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: arm1
+  name: Bras1
   gold: 0
   battler_hue: 0
   exp: 50
@@ -1743,7 +1743,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: arm2
+  name: Bras2
   gold: 0
   battler_hue: 0
   exp: 50
@@ -2703,7 +2703,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Bohdi Tree
+  name: Arbre de la Bodhi
   gold: 0
   battler_hue: 0
   exp: 0
@@ -2755,7 +2755,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Angelic Mara
+  name: Mara Angelique
   gold: 0
   battler_hue: 0
   exp: 2000
@@ -3265,11 +3265,11 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Queen Bee
+  name: Reine des Abeilles
   gold: 0
   battler_hue: 0
   exp: 0
-  battler_name: queenbeehell
+  battler_name: floweeseenbetterdays
   actions:
   - !ruby/object:RPG::Enemy::Action
     condition_type: 0
@@ -3409,7 +3409,7 @@
     kind: 0
     data_id: 1
 - !ruby/object:RPG::Enemy
-  name: Spirit 1
+  name: Esprit 1
   gold: 0
   battler_hue: 0
   exp: 0
@@ -3519,7 +3519,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: spirit 2
+  name: Esprit 2
   gold: 0
   battler_hue: 0
   exp: 0
@@ -3623,7 +3623,7 @@
   icon_index: 0
   description: ''
 - !ruby/object:RPG::Enemy
-  name: Shroom dug
+  name: Champignon creusé
   gold: 0
   battler_hue: 270
   exp: 0

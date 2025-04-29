@@ -53,74 +53,75 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, Town, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You've returned to the town.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous êtes de retour en ville.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Where would you like to go?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Town Hall, Shady home, The Wall], 0]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Town Hall]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Où voulez-vous aller ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Hôtel de ville, La maison louche, Le mur], 0]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Hôtel de ville]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, Town3, 0, 0, 0, -30, 100, 90, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Looks like nobody is around, still.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['On dirait qu’il n’y a personne dans']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [les parages. Encore.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Shady home]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, La maison louche]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, toWN2, 1, 0, 320, 200, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Looks like somebody is home]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [On dirait que quelqu’un est à la maison.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, imblue.jpg, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['                  Waht ya want??']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [[I'm back!, Oops made a wrong turn see ya], 0]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, I'm back!]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Tu me veux quoi ??']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [[Je suis de retour !, 'Oups, je me suis trompé de chemin, à plus tard'], 0]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, Je suis de retour !]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Yah. Why?']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 102, p: [['Why don''t you climb the tower?', 'what is this town?'], 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [0, 'Why don''t you climb the tower?']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Ouais. Pourquoi ?']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 102, p: [['Pourquoi est-ce que tu ne grimpes pas la Tour ?', 'Qu’est-ce qu’est cette ville ?'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [0, 'Pourquoi est-ce que tu ne grimpes pas la Tour ?']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [The Eightfold Path is something I do]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [not concern myself with.]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 102, p: [['What is that?'], 0]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 402, p: [0, 'What is that?']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [Le Noble Sentier Octuple est quelque chose]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [dont je ne me préocupe pas.]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 102, p: [['Qu’est-ce que c’est ?'], 0]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 402, p: [0, 'Qu’est-ce que c’est ?']}
       - !ruby/object:RPG::EventCommand {i: 4, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [The ending of ignorance and]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [liberation from samsara.]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [I say Ignorance be bliss. I love]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: ['me abode, don''t got no reason to leave.']}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [La fin de l’ignorance et]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [la libération du samsara.]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [Je dis que l'ignorance est une bénédiction.]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: ['J’aime ma maison, je n’ai aucune raison de partir.']}
       - !ruby/object:RPG::EventCommand {i: 4, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: ['We done here? Get out ma abode.']}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: ['On a fini ? Dégage de ma maison.']}
       - !ruby/object:RPG::EventCommand {i: 4, c: 122, p: [33, 33, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 4, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [1, 'what is this town?']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [1, 'Qu’est-ce qu’est cette ville ?']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [This town just be the start of a journey for]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [some. The end for others.]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 102, p: [['What Journey?'], 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 402, p: [0, 'What Journey?']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [Cette ville n’est que le début d'un voyage pour]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [certains. La fin pour d’autres.]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 102, p: [['Quel voyage ?'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 402, p: [0, 'Quel voyage ?']}
       - !ruby/object:RPG::EventCommand {i: 4, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [' Liberation from samsara, the painful cycle.']}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: ['La libération du samsara, ce cycle douloureux.']}
       - !ruby/object:RPG::EventCommand {i: 4, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [The Eightfold Path is something I do]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [not concern myself with.]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 102, p: [['What is that?'], 0]}
-      - !ruby/object:RPG::EventCommand {i: 4, c: 402, p: [0, 'What is that?']}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [Le Noble Sentier Octuple est quelque chose]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 401, p: [dont je ne me préocupe pas.]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 102, p: [['Qu’est-ce que c’est ?'], 0]}
+      - !ruby/object:RPG::EventCommand {i: 4, c: 402, p: [0, 'Qu’est-ce que c’est ?']}
       - !ruby/object:RPG::EventCommand {i: 5, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [The ending of ignorance and]}
-      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [liberation from samsara.]}
-      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [I say Ignorance be bliss. I love]}
-      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: ['me abode, don''t got no reason to leave.']}
+      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [La fin de l’ignorance et]}
+      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [la libération du samsara.]}
+      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: [Je dis que l'ignorance est une bénédiction.]}
+      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: ['J’aime ma maison, je n’ai aucune raison de partir.']}
       - !ruby/object:RPG::EventCommand {i: 5, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: ['We done here? Get out ma abode.']}
+      - !ruby/object:RPG::EventCommand {i: 5, c: 401, p: ['On a fini ? Dégage de ma maison.']}
       - !ruby/object:RPG::EventCommand {i: 5, c: 122, p: [33, 33, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 5, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 4, c: 404, p: []}
@@ -129,14 +130,14 @@ events:
       - !ruby/object:RPG::EventCommand {i: 3, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, Oops made a wrong turn see ya]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'Oups, je me suis trompé de chemin, à plus tard']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Yea, ya best leave']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Ouais, tu ferais mieux de partir.']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, The Wall]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, Le mur]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallgappy, 0, 0, -4, -40, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
@@ -159,8 +160,8 @@ events:
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallholeguy_, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Go bother that weirdo who never leaves his]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['house, then come see me.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Dérange ce mec bizarre qui ne quitte jamais]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['sa maison, puis reviens me voir.']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -206,34 +207,35 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, Town, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You've returned to the town.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous êtes de retour en ville.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Where would you like to go?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Town Hall, Shady home, The Wall], 0]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Town Hall]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Où voulez-vous aller ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Hôtel de ville, La maison louche, Le mur], 0]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Hôtel de ville]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, Town3, 0, 0, 0, -30, 80, 80, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Looks like nobody is around, still.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['On dirait qu’il n’y a personne dans']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [les parages. Encore.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Shady home]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, La maison louche]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, toWN2, 1, 0, 320, 200, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Looks like somebody is home]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [On dirait que quelqu’un est à la maison.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, imblue.jpg, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['         I be done talkin.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [' Je n’ai plus rien à dire.']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, The Wall]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, Le mur]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallgappy, 0, 0, -4, -40, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
@@ -256,24 +258,24 @@ events:
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallholeguy_, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Leave me be.]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['What is samsara?', 'What is The Noble Eightfold Path?'], 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'What is samsara?']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Laisse moi tranquille.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['Qu’est-ce que le samsara ?', 'Qu’est-ce que le Noble Sentier Octuple ?'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'Qu’est-ce que le samsara ?']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [You ain't ready to hear that.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Tu n’es pas prêt à l’entendre.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Now get lost. I think someone is waiting for]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [you at the town hall.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Maintenant, pars. Je crois que quelqu’un t’attend']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [à l’hôtel de ville.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 122, p: [33, 33, 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'What is The Noble Eightfold Path?']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'Qu’est-ce que le Noble Sentier Octuple ?']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Right view, right resolve, right speech,']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['right conduct, right livelihood, right effort,']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['right mindfulness, and right samadhi.']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Une bonne vision, une bonne résolution, de bonnes paroles,']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['une bonne conduite, de bons moyens de subsistance,']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['un bon effort, une bonne pleine conscience et le bon samadhi.']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Now get lost. I think someone is waiting for]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [you at the town hall.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Maintenant, pars. Je crois que quelqu’un t’attend]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [à l’hôtel de ville.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 122, p: [33, 33, 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 404, p: []}
@@ -322,10 +324,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, Town, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You've returned to the town.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous êtes de retour en ville.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Where would you like to go?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Town Hall, Shady home, The Wall], 0]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Où voulez-vous aller ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Hôtel de ville, La maison louche, Le mur], 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Town Hall]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
@@ -333,43 +335,43 @@ events:
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 230, p: [60]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [There you are. I thought you needed to]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [rest after you passed out so I brought us]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['back here. Why don''t we continue?']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [[Continue, 'No'], 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, Continue]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Te voilà. Je me disais que tu aurais besoin]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['de te reposer après t’être évanouie, alors']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['je nous ai ramenés ici. Pourquoi ne pas continuer ?']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [[Continuer, 'Non'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, Continuer]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 231, p: [1, tower, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['         It''s a massive tower in the distance']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['C’est une gigantesque et lointaine Tour']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['      You travel to the tower']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['      Vous vous rendez à la Tour']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 201, p: [0, 17, 15, 11, 4, 0]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'No']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'Non']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Shady home]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, La maison louche]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, toWN2, 1, 0, 320, 200, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Looks like somebody is home]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [On dirait quelqu’un est à la maison]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, imblue.jpg, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['         I be done talkin.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Je n’ai plus rien à dire.']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, The Wall]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [2, Le mur]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallgappy, 0, 0, -4, -40, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
@@ -392,7 +394,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, wallholeguy_, 0, 0, 0, 0, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Leave me be.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Laisse moi tranquille.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}

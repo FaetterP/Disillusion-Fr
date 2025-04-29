@@ -87,9 +87,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   2: !ruby/object:RPG::Event
     id: 2
@@ -136,8 +136,8 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Wipe that shit eating grin off your face!]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [This is the BONE ZONE!!!!!!!]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Efface ce sourire de mangeur de merde de]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [ton visage ! C’est la ZONE DES OS !!!!!!!]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -179,9 +179,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   3: !ruby/object:RPG::Event
     id: 3
@@ -228,7 +228,7 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [TOO SHIESTY TOO HOT]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['TROP TIMIDE, TROP CHAUD']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -270,9 +270,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   4: !ruby/object:RPG::Event
     id: 4
@@ -319,7 +319,7 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I was cured by turning my eyes to god.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [J'ai été guéri en tournant mes yeux vers Dieu.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -361,9 +361,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   5: !ruby/object:RPG::Event
     id: 5
@@ -410,8 +410,8 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [They have partied for many year and i must]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [pray for a cease to this.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Ils ont fait la fête pendant de nombreuses années]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [et je dois maintenant prier pour y mettre fin.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -453,9 +453,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   6: !ruby/object:RPG::Event
     id: 6
@@ -502,9 +502,9 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Hey here, these are on the house.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Eh, ils sont donnés par la maison !']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Got 2 MP juice XL!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous obtenez 2 jus de MP XL !*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 126, p: [17, 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 122, p: [473, 473, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -547,7 +547,7 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Don't be greedy!]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Ne sois pas trop gourmand !]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   7: !ruby/object:RPG::Event
     id: 7
@@ -635,9 +635,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   8: !ruby/object:RPG::Event
     id: 8
@@ -684,9 +684,10 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Germans sure do know how to make cars,']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I died in a tragic car wreck due to a malfunction]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [but I still love my german made car.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Les allemands savent vraiment comment faire des']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [voitures. Je suis mort dans un tragique accident]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['de voiture dû à un dysfonctionnement,']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [mais j’adore toujours ma voiture allemande.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -728,9 +729,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   9: !ruby/object:RPG::Event
     id: 9
@@ -777,7 +778,7 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [A dancing plague.... make it stop.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Une peste dansante....faites-la s’arrêter.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -819,9 +820,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   10: !ruby/object:RPG::Event
     id: 10
@@ -868,8 +869,8 @@ events:
       list:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Stretch]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I get up i get down i get up i get down i get up]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [i get down]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je me lève je me baisse je me lève je me baisse]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [je me lève je me baisse.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -911,9 +912,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   11: !ruby/object:RPG::Event
     id: 11
@@ -1002,9 +1003,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Come away with me, on a bus']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Come away where they can't tempt us]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [With their lies.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Enfuis-toi avec moi, prenons le bus']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Enfuis-toi là où ils ne peuvent nous tenter]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Avec leurs mensonges.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   12: !ruby/object:RPG::Event
     id: 12
@@ -1160,7 +1161,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, tower, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You are going to a new location.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous vous rendez dans un nouveau lieu.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
@@ -1212,10 +1213,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Hey man, i''m lookin for somethin. A relic']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['I dropped, the last menthol cigarette.']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [It has to be somewhere in that town you]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['just came from, if you find it I will pay ya.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Eh mec, je recherche quelque chose. Une relique']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['que j’ai fait tomber, la dernière cigarette au menthol.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Elle doit être quelque part dans cette ville dont tu viens]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['tout juste. Si tu la trouves, je te payerais.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -1257,18 +1258,18 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Oh dude! You found it! Give it back?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Sure., Nope.], 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Sure.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Oh mec ! Tu l’as trouvé ! Tu me la redonnes ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Évidemment., Nope.], 2]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Évidemment.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 126, p: [18, 1, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Here is 200 dust, thanks dude.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Tiens, 200 poussières. Merci mec.']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 122, p: [472, 472, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 125, p: [0, 0, 200]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Nope.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [You just came to mock me huh....]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Tu es juste venu te moquer de moi, hein ?....']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1312,7 +1313,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Saving this for a bad day.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je la garde pour les mauvais jours.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
 parallax_sx: 0
 bgm: !ruby/object:RPG::BGM {name: '', volume: 100, pitch: 100}

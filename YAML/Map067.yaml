@@ -193,7 +193,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [That coin is not safe. Remove it.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Cette pièce n’est pas sûre. Retire la.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   1: !ruby/object:RPG::Event
     id: 1
@@ -817,16 +817,17 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Welcome to hog hell brother. That bastard]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['really sent me here over a menthol ciggy,']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [but this is my pork purgatory now. I got]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [these bastards building me a golden pig throne.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Bienvenue dans l’enfer des porcs, mon frère.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Ce bâtard m’a vraiment envoyé ici pour une']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['cigarette au menthol, mais c’est mon purgatoire porcin.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Maintenant, ces bâtards me construisent un trône de.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [This is the start of a new leaf for me.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Take this, my golden pig necklace. These']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [pig guys made it for me.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [cohon en or.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [C'est le début d'une nouvelle ère pour moi.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Prend ceci, mon collier de porc d’or. Ces cochons']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [l’ont fait pour moi.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*got golden pig chain!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous obtenez le collier de porc d’or !*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 355, p: [steam = SteamUserStatsLite.instance]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 655, p: [steam.set_achievement 'NEW_ACHIEVEMENT_1_12']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 655, p: [steam.update]}
@@ -873,7 +874,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [See you on the flip young man.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['On se reverra au renversement, jeune homme.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   11: !ruby/object:RPG::Event
     id: 11
@@ -1020,7 +1021,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, tower, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You are going to a new location.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous vous rendez dans un nouveau lieu.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}

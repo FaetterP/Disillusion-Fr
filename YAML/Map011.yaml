@@ -48,19 +48,19 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [we all play parts of tomorrow]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Some days we'll work and other days we'll play]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [But I know we all can't stay here forever.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['who would want to anyway?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[An Ignorant person, I'm scared of dying], 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, An Ignorant person]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Nous jouons tous une part de demain.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Certains jours nous travaillons, d’autres nous jouons']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Mais je sais que personne ne peut rester ici pour toujours.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Qui le voudrait de toute façon ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Une personne ignorante, J’ai peur de mourrir], 2]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Une personne ignorante]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [You will never leaves this place if you are]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [ignorant.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Tu ne quitteras jamais cet endroit]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [si tu es ignorant.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, I'm scared of dying]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, J’ai peur de mourrir]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['wanna buy some life extending potions?']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Envie d’acheter des potions de survie ?']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 302, p: [0, 1, 1, 7, true]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 605, p: [0, 2, 1, 25]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 605, p: [0, 4, 1, 14]}
@@ -113,27 +113,27 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['How fast are you?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Im fairly quick, Slow as molasses], 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Im fairly quick]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Est-ce que tu es rapide ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [[Je le suis assez, Aussi lent qu’une molasse], 2]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, Je le suis assez]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [quick enough to attack twice before your opponent]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['catches you?']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [I'll teach you this skill. It is a bit clumsy]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [but it'll help ya.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Je vais t’apprendre cette compétence. Elle est]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [un peu maladroite mais elle t’aidera.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['*learned slow move!*']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['*Vous apprenez slow move!*']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['*Learned double attack!*']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['*Vous apprenez double-attaque !*']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 318, p: [0, 1, 0, 4]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 318, p: [0, 1, 0, 55]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 122, p: [46, 46, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Slow as molasses]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Aussi lent qu’une molasse]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Then I ain't got nothing for ya]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Alors je n’ai rien pour toi.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 122, p: [46, 46, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
@@ -226,14 +226,15 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, battlebak2, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Crossed the path to the changes of the]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [seasons Reaching out to call the color of the heavens]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [around a moment clothed in dew]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [quicker than we shall ever know.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Traverser le chemin du changement des saisons,']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Afin d'appeler la couleur des cieux]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [autour d'un moment habillé d'une rosée]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [plus rapide que nous pourrons jamais le savoir.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Getting over all the sleepless moments]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Leaving all the changes We relieve the moment]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [only to find out the puppeteers name.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Se remettre de toutes les insomnies]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Abandonnant tous les changements]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Nous apaisons le moment, pour découvrir le nom']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [des marionnettistes.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
@@ -447,7 +448,7 @@ events:
           - !ruby/object:RPG::MoveCommand {code: 0, parameters: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 505, p: [*1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Should of left me alone.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Tu aurais dû me laisser tranquille.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 301, p: [0, 1, true, false]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 601, p: []}
       - !ruby/object:RPG::EventCommand
@@ -580,7 +581,7 @@ events:
           - !ruby/object:RPG::MoveCommand {code: 0, parameters: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 505, p: [*4]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Should of left me alone.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Tu aurais dû me laisser seul.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 301, p: [0, 1, true, false]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 601, p: []}
       - !ruby/object:RPG::EventCommand
@@ -705,34 +706,35 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, MEl9, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Let it be known that these guys here]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [are to be treated with the UTMOST RESPECT.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['They are to not be messed with. understand?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Why?', It is just a bird.], 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Why?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Il faut savoir que ces gars-là]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [doivent être traités avec  le PLUS GRAND respect possible.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Il ne faut pas leur chercher des noises. Compris ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Pourquoi ?', Ce n’est qu’un oiseau.], 2]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Pourquoi ?']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['They just are. okay? These guys have been']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [watching over us since the creation of any sort]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [of free will. you really do not want to get]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [on their bad side.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Ils sont justes. Ok ? Ces gars nous']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [surveillent de puis la création de n’importe quel]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [type de libre-arbitre. Tu ne veux vraiment pas te]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [les mettres à dos.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 122, p: [49, 49, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, It is just a bird.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [1, Ce n’est qu’un oiseau.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, MEl10, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [IF YOU KNOW WHAT IS GOOD FOR YOU WILL]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [NOT SAY THINGS LIKE THIS.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['SI TU SAVAIS CE QUI EST LE MEILLEUR POUR TOI,']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [TU NE DIRAIS PAS ÇA.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, MEl11, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [I hope we are clear. for both of our sakes.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [J'espère que les choses sont claires.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Pour notre bien à tous les deux.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
@@ -781,7 +783,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [That coin is not safe. Remove it.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Cette pièce n’est pas sûre. Retire-la.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
       condition: !ruby/object:RPG::Event::Page::Condition
@@ -875,7 +877,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, tower, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You are going to a new location.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous vous rendez dans un nouveau lieu.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
@@ -964,10 +966,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Its an old televison.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [C’est une vieille télévision.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 126, p: [4, 0, 0, 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*You found 2 mp juice!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous trouvez 2 jus de MP !*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 122, p: [48, 48, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1055,10 +1057,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Its an old televison.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [C’est une vieille télévision.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 126, p: [25, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*You found 1 PBJ!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous trouvez 1 PBJ!*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 122, p: [50, 50, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1146,12 +1148,12 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Would you rather have a rats neck or roach]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['teeth? Scratch that I do not care.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Tu préfererais avoir un cou de rat, ou']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['des dents de cafard ? Oubli ça, je m’en moque.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['I guess I am supposed to teach you this now?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Je suppose que je dois t’apprendre ça maintenant ?']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*learned Fright!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous apprenez Fright!*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 318, p: [0, 1, 0, 40]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 122, p: [441, 441, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1195,9 +1197,9 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['you are welcome. Oh by the way, enemies do']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [have weaknesses. Just hard to know what they]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [may be without trying stuff out.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Il n’y a pas de quoi. Oh, au fait, les ennemies']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [ont bien des faiblesses. Il est juste dur de]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [trouver lesquelles sans essayer quelques trucs.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   14: !ruby/object:RPG::Event
     id: 14
@@ -1295,10 +1297,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 3.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Its an old televison.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [C’est une vieille télévision.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 125, p: [0, 0, 17]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*You found 17 dust!*']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['*Vous trouvez 17 poussières !*']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 122, p: [45, 45, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
@@ -1386,22 +1388,23 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Golem? is that really you!']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I thought I would never see you again!]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Golem ? C’est vraiment toi ?!']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je pensais ne jamais te revoir !]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Are you doing important things again?']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['How''s mel? I miss her....']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Est-ce que tu es toujours en train de faire']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['des choses importantes ?']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Et Comment va Mel ?? Elle me manque.....']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['I love you, friend. My day is better']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [having seen you again.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Je t’aime, mon ami. Te voir a rendu']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [mon jour meilleur.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I felt so lost without you....]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Without you I would probably still be caught]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [up in petty fights.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je me sens tellement perdu sans toi....]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Si tu n’étais pas là, je serais probablement']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [pris dans pleins de combats.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I won't keep you too much longer.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I know you are here to do something important]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [again.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je ne te retiens pas plus longtemps.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Je sais que tu es à nouveau ici pour]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [accomplir quelque chose d’important.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
@@ -1452,10 +1455,10 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['You again? strange.']}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [I've put aside my differences with that frog.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Encore toi ? Bizarre.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [J'ai mis de côté mes différends avec cette grenouille.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Do you not believe me? I promise.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Tu ne me crois pas ? Je te le promets.']}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
