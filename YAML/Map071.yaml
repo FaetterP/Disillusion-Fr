@@ -49,8 +49,8 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 261, p: [Door]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, MOSHED-2021-1-6-14-12-33, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [The Door is locked to those who repeat]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [the cycle.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [La porte est verrouilé à ceux]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [répétant le cycle.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
     - !ruby/object:RPG::Event::Page
@@ -94,38 +94,38 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 261, p: [Door]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, MOSHED-2021-1-6-14-12-33, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [The door will open to you. for a price.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [La porte s’ouvrira à toi. À un prix.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 111, p: [7, 12000, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Pay 12000 dust?']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['Yes', 'No'], 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'Yes']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Payer 12000 poussières ?']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['Oui', 'Non'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'Oui']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 231, p: [1, asdaSAAM-1983vfsfcv.95.1s97_1, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [you have bestowed upon me the empty vessel]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [of the many who have failed. For this I thank you.]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [With these empty shells I will construct a new man.]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [A mannequin race built from souless corpses.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Tu m’as accordé les récéptacles de tout ceux]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['ayant échoué. Et pour ceci, je te remercie. Grâce à ces ']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['coquilles vides, je vais pouvoir créer un nouvel homme.']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Une race de mannequins crée à partir de cadavres sans âmes.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['They may remain empty now, and tomorrow.']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [But eventually I shall fill them all. A king is no]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['king without his people, after all.']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Ils devront rester vides, maintenant et demain.']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Mais éventuellement, je devrais les remplir. Après tout,']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['un roi n’est pas un roi sans son peuple.']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 301, p: [0, 61, false, false]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 126, p: [30, 0, 0, 1]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'No']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [1, 'Non']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [Return with 12000 dust and we will open]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [the door.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Reviens avec 12000 poussières, et nous t’ouvrirons']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [la porte.]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 404, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 411, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Return with 12000 dust and we will open]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [the door.]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [Reviens avec 12000 poussières, et nous t’ouvrirons]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [la porte.]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 0, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 412, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
@@ -218,7 +218,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [That coin is not safe. Remove it.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Cette pièce n'est pas sûr. Retire la.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   5: !ruby/object:RPG::Event
     id: 5
@@ -308,7 +308,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [Zoom 2.0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 108, p: [V-Align 2]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [That coin is not safe. Remove it.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Cette pièce n'est pas sûr. Retire la.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
   6: !ruby/object:RPG::Event
     id: 6
@@ -464,7 +464,7 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, tower, 0, 0, 0, -30, 100, 100, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You are going to a new location.]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [Vous vous rendez dans un nouveau lieu.]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}

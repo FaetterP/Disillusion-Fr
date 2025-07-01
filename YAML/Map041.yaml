@@ -109,50 +109,50 @@ events:
       - !ruby/object:RPG::EventCommand {i: 0, c: 231, p: [1, memory1-2, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 0, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 0, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [You have entered a memory. You can feel]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [how moist the air is.]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Go forward '], 0]}
-      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Go forward ']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['Tu es entré dans un souvenir. Tu peux sentir']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: ['à quel point l’air est humide.']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 102, p: [['Avancer '], 0]}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 402, p: [0, 'Avancer ']}
       - !ruby/object:RPG::EventCommand {i: 1, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 231, p: [1, memory1, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 1, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 1, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['The wind blew, drops of dew on the tree']}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: [leaves fell on you.]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [[Forward], 2]}
-      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, Forward]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['Le vent soufflait, les gouttes de rosée présentes sur']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 401, p: ['les feuilles des arbres tombent sur toi.']}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 102, p: [['Avancer'], 2]}
+      - !ruby/object:RPG::EventCommand {i: 1, c: 402, p: [0, 'Avancer']}
       - !ruby/object:RPG::EventCommand {i: 2, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 231, p: [1, memory1-4, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 2, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 2, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['You''ve never been here before, but it']}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: [feels like you have many times.]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 102, p: [['Left ', Right], 2]}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [0, 'Left ']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['Tu n’es jamais venu ici auparavant, mais tu']}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 401, p: ['as pourtant l’impression d’avoir suivi ce chemin']}
+      - !ruby/object:RPG::EventCommand {i: 0, c: 401, p: [de nombreuses fois.]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 102, p: [['Partir à gauche ', Partir à droite], 2]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [0, 'Partir à gauche ']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 231, p: [1, memory1-5, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [It smells like burning flesh.]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['Ça sent la chair brûlée.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 201, p: [0, 42, 1, 7, 6, 0]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 214, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 0, p: []}
-      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [1, Right]}
+      - !ruby/object:RPG::EventCommand {i: 2, c: 402, p: [1, 'Partir à droite']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 231, p: [1, memory1-6, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [It smells like rain.]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['Ça sent la pluie.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 231, p: [1, memory1-6-2, 0, 0, 0, -30, 100, 75, 255, 0]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 222, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 101, p: ['', 0, 0, 2]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [Its kinda a bummer that we don't have]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [tusks or other similar appendages and]}
-      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: [anomalies.]}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['C’est un peu dommage que nous n’avons pas']}
+      - !ruby/object:RPG::EventCommand {i: 3, c: 401, p: ['de défenses ou d’autres excroissances bizarres du genre.']}
       - !ruby/object:RPG::EventCommand {i: 3, c: 221, p: []}
       - !ruby/object:RPG::EventCommand {i: 3, c: 235, p: [1]}
       - !ruby/object:RPG::EventCommand {i: 3, c: 222, p: []}

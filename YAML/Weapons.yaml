@@ -1,8 +1,8 @@
 ---
 - 
 - !ruby/object:RPG::Weapon
-  description: "You won't be buttering up your enemies, nor\r\ndoin much harm"
-  name: Butter Knife
+  description: "Tu ne beurreras pas tes ennemis et ne\r\nleur fera pas beaucoup de mal"
+  name: Couteau à beurre
   icon_index: 128
   price: 100
   animation_id: 7
@@ -33,8 +33,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: A book with profaned magic powers.
-  name: Babbler bible
+  description: Un livre avec des pouvoirs magiques profanés.
+  name: Bible du bavard
   icon_index: 229
   price: 500
   animation_id: 7
@@ -65,8 +65,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: Better than the butter knife
-  name: Kitchen knife
+  description: Mieux que le couteau à beurre.
+  name: Couteau de cuisine
   icon_index: 128
   price: 3000
   animation_id: 7
@@ -97,8 +97,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: "Given to you by The lord himself.\r\nimbued with lightning. "
-  name: Heathers Trident
+  description: "Donné par le Seigneur lui-même.\r\nImprégné du pouvoir de la foudre."
+  name: Trident de Heather
   icon_index: 173
   price: 6000
   animation_id: 1
@@ -129,8 +129,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: Crimson soaked battle axe.
-  name: Crimson Axe
+  description: Hache de bataille imbibée de sang cramoisi.
+  name: Hache cramoisie
   icon_index: 144
   price: 15000
   animation_id: 7
@@ -161,8 +161,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: Heavy axe used by giants.
-  name: Gigantes Axe
+  description: Hache lourde utilisée par les géants.
+  name: Hache des géants
   icon_index: 144
   price: 30000
   animation_id: 7
@@ -197,8 +197,8 @@
   etype_id: 0
   wtype_id: 1
 - !ruby/object:RPG::Weapon
-  description: Spikes appear on the head of this glove.
-  name: Cestus
+  description: Des pointes apparaissent sur la tête de ce gant.
+  name: Ceste
   icon_index: 145
   price: 100
   animation_id: 1
@@ -233,7 +233,7 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: Fighting weapon with four short nails.
+  description: Arme de combat avec quatre petits clous.
   name: Bagna
   icon_index: 145
   price: 500
@@ -269,8 +269,8 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: Its claws are made of steel.
-  name: Iron Claw
+  description: Ses griffes sont en acier.
+  name: Griffe de fer
   icon_index: 145
   price: 3000
   animation_id: 1
@@ -305,8 +305,8 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: Mithril claw made of the magic mineral.
-  name: Mithril Claw
+  description: Griffe en mithril faite à partir de minéraux magiques.
+  name: Griffe en mithril
   icon_index: 145
   price: 6000
   animation_id: 1
@@ -341,8 +341,8 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: The claw head is made of dragon fangs.
-  name: Dragon Fang
+  description: La tête de la griffe est faite de crocs de dragon.
+  name: Croc de dragon
   icon_index: 145
   price: 15000
   animation_id: 1
@@ -377,8 +377,8 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: Four winds empower this claw.
-  name: Zephyrus Claw
+  description: Les quatre vents renforcent cette griffe.
+  name: Griffe de Zéphyrus
   icon_index: 145
   price: 30000
   animation_id: 1
@@ -413,8 +413,8 @@
   etype_id: 0
   wtype_id: 2
 - !ruby/object:RPG::Weapon
-  description: A short spear.
-  name: Spear
+  description: Une lance courte.
+  name: Lance
   icon_index: 146
   price: 100
   animation_id: 13
@@ -441,8 +441,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: A long spear with a long blade.
-  name: Partisan
+  description: Une longue lance avec une longue lame.
+  name: Partisane
   icon_index: 146
   price: 500
   animation_id: 13
@@ -473,8 +473,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: An axe is mounted on this spear.
-  name: Halberd
+  description: Une hache est accrochée à cette lance.
+  name: Hallebarde
   icon_index: 146
   price: 3000
   animation_id: 13
@@ -505,8 +505,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: Mithril spear made of the magic mineral.
-  name: Mithril Spear
+  description: Lance en mithril faite de miénraux magiques.
+  name: Lance en mithril
   icon_index: 146
   price: 6000
   animation_id: 13
@@ -533,8 +533,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: A white spirit blessed this holy spear.
-  name: Holy Lance
+  description: Un esprit blanc a béni cette lance sacrée.
+  name: Lance sacrée
   icon_index: 146
   price: 15000
   animation_id: 13
@@ -565,8 +565,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: Contains deeply engraved shadow magic.
-  name: Gaebulg Spear
+  description: Profondément imprégnée de la magie des ombres.
+  name: Lance de Gaebulg
   icon_index: 146
   price: 30000
   animation_id: 13
@@ -597,8 +597,8 @@
   etype_id: 0
   wtype_id: 3
 - !ruby/object:RPG::Weapon
-  description: Light and easy-to-use short sword.
-  name: Short Sword
+  description: Épée courte légère et facile à utiliser.
+  name: Épée courte
   icon_index: 147
   price: 100
   animation_id: 7
@@ -625,8 +625,8 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: The strength of the longest combat sword.
-  name: Long Sword
+  description: La force de l’épée de combat la plus longue.
+  name: Épée longue
   icon_index: 147
   price: 500
   animation_id: 7
@@ -653,7 +653,7 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: A broad sword with a crescent blade.
+  description: Une épée large avec une lame en croissant.
   name: Falcion
   icon_index: 147
   price: 3000
@@ -681,8 +681,8 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: Mithril sword made of the magic mineral.
-  name: Mithril Sword
+  description: Épée en mithril faite à partir de minéraux magiques.
+  name: Épée en mithril
   icon_index: 147
   price: 6000
   animation_id: 7
@@ -709,8 +709,8 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: Engraved with magical runes.
-  name: Rune Blade
+  description: Gravée de runes magiques.
+  name: Lame runique
   icon_index: 147
   price: 15000
   animation_id: 7
@@ -737,8 +737,8 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: The magic sword that brings triumph over evil.
-  name: Tyrfing Sword
+  description: L’épée magique qui triompha du mal.
+  name: Épée de Tyrfing
   icon_index: 147
   price: 30000
   animation_id: 7
@@ -765,7 +765,7 @@
   etype_id: 0
   wtype_id: 4
 - !ruby/object:RPG::Weapon
-  description: Has a slender sword inscription.
+  description: Porte une inscription semblable à celles des épées fines.
   name: Katana
   icon_index: 148
   price: 100
@@ -797,7 +797,7 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: Excellent sword with destructive power.
+  description: Excellente épée avec un pouvoir destructeur.
   name: Zanbatou
   icon_index: 148
   price: 498
@@ -829,7 +829,7 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: A short sword tempered with frost.
+  description: Une épée courte trempée dans le givre.
   name: Toratouru
   icon_index: 148
   price: 3000
@@ -861,7 +861,7 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: Magic katana made of the magic mineral.
+  description: Katana magique fait de miénraux magiques.
   name: Reigin no Tachi
   icon_index: 148
   price: 6000
@@ -893,7 +893,7 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: An ancient sword with hidden power.
+  description: Une épée ancienne avec un pouvoir caché.
   name: Shichishitou
   icon_index: 148
   price: 15000
@@ -925,8 +925,8 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: A demonic sword that sucks the life of the wielder.
-  name: Muramasa Katana
+  description: Une épée démoniaque qui aspire la vie de son porteur.
+  name: Katana de Muramasa
   icon_index: 148
   price: 30000
   animation_id: 7
@@ -957,8 +957,8 @@
   etype_id: 0
   wtype_id: 5
 - !ruby/object:RPG::Weapon
-  description: A shortbow made for hunting.
-  name: Shortbow
+  description: Un arc court fait pour la chasse.
+  name: Arc court
   icon_index: 149
   price: 100
   animation_id: 13
@@ -997,8 +997,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: The circular shape grants it strength.
-  name: Longbow
+  description: Sa forme circulaire lui confère de la force.
+  name: Arc long
   icon_index: 149
   price: 500
   animation_id: 13
@@ -1037,8 +1037,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: Shoots a crossbow arrow from a strong string.
-  name: Crossbow
+  description: Tire des flèches d’arbalète grâce à une corde solide.
+  name: Arbalète
   icon_index: 149
   price: 3000
   animation_id: 13
@@ -1077,8 +1077,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: Mithril bow made of the magic mineral.
-  name: Mithril Bow
+  description: Arc en mithril fait à partir de minéraux magiques.
+  name: Arc en mithril
   icon_index: 149
   price: 6000
   animation_id: 13
@@ -1117,8 +1117,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: A bow made from the earth spirits.
-  name: Ebon Bow
+  description: Un arc fait des esprits de la terre.
+  name: Arc d’ébène
   icon_index: 149
   price: 15000
   animation_id: 13
@@ -1157,8 +1157,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: A bow that bears the name of the Moon Goddess.
-  name: Artemis Bow
+  description: Un arc qui porte le nom de la déesse de la lune.
+  name: Arc d’Artémis
   icon_index: 149
   price: 30000
   animation_id: 13
@@ -1197,8 +1197,8 @@
   etype_id: 0
   wtype_id: 6
 - !ruby/object:RPG::Weapon
-  description: Your run-of-the-mill knife.
-  name: Knife
+  description: Ton couteau ordinaire.
+  name: Couteau
   icon_index: 150
   price: 100
   animation_id: 7
@@ -1233,8 +1233,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: A dagger with a large blade made for combat.
-  name: Dagger
+  description: Une dague avec une grande lame faite pour le combat.
+  name: Dague
   icon_index: 150
   price: 500
   animation_id: 7
@@ -1269,8 +1269,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: Knife used for fending off attacks.
-  name: Main Gauche
+  description: Couteau utilisé pour repousser les attaques.
+  name: Main gauche
   icon_index: 150
   price: 3000
   animation_id: 7
@@ -1305,8 +1305,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: Mithril knife made of the magic mineral.
-  name: Mithril Knife
+  description: Couteau en mithril fait à partir de minéraux magiques.
+  name: Couteau en mithril
   icon_index: 150
   price: 6000
   animation_id: 7
@@ -1341,8 +1341,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: Used for assassinations.
-  name: Assassin's Dagger
+  description: Utilisé pour les assassinats.
+  name: Dague de l’assassin
   icon_index: 150
   price: 15000
   animation_id: 7
@@ -1377,8 +1377,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: Bears the name of an intense maelstrom.
-  name: Vortex Blade
+  description: Porte le nom d’un maelström intense.
+  name: Lame du vortex
   icon_index: 150
   price: 30000
   animation_id: 7
@@ -1413,8 +1413,8 @@
   etype_id: 0
   wtype_id: 7
 - !ruby/object:RPG::Weapon
-  description: A circular club with metal spikes.
-  name: Mace
+  description: Une massue circulaire avec des pointes en métal.
+  name: Masse
   icon_index: 151
   price: 100
   animation_id: 19
@@ -1441,8 +1441,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: An iron ball dangling from a chain.
-  name: Flail
+  description: Une boule de fer suspendue à une chaîne.
+  name: Fléau
   icon_index: 151
   price: 500
   animation_id: 19
@@ -1469,8 +1469,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: A steel hammer made for battle.
-  name: War Hammer
+  description: Un marteau en acier fait pour la bataille.
+  name: Marteau de guerre
   icon_index: 151
   price: 3000
   animation_id: 19
@@ -1497,8 +1497,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: Mithril mace made of the magic mineral.
-  name: Mithril Mace
+  description: Masse en mithril faite à partir de miénraux magiques.
+  name: Masse en mithril
   icon_index: 151
   price: 6000
   animation_id: 19
@@ -1525,8 +1525,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: The earth can crack from this magical hammer.
-  name: Ground Breaker
+  description: La terre peut se fissurer sous les coups de ce marteau magique.
+  name: Briseur de sol
   icon_index: 151
   price: 15000
   animation_id: 19
@@ -1553,8 +1553,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: The "Crusher" is what the God of War nicknamed this.
-  name: 'Mourner Hammer '
+  description: Le dieu de la guerre surnomma cette arme "Le Broyeur".
+  name: Marteau du pleureur
   icon_index: 151
   price: 30000
   animation_id: 19
@@ -1581,8 +1581,8 @@
   etype_id: 0
   wtype_id: 8
 - !ruby/object:RPG::Weapon
-  description: Sturdy staff made of oak.
-  name: Wood Staff
+  description: Bâton robuste fait de chêne.
+  name: Bâton en bois
   icon_index: 152
   price: 100
   animation_id: 19
@@ -1613,8 +1613,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: An orb attached to this staff helps with casting magic.
-  name: Magic Staff
+  description: Une orbe attachée à ce bâton aide à lancer des sorts.
+  name: Bâton magique
   icon_index: 152
   price: 500
   animation_id: 19
@@ -1645,8 +1645,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: Silver amplifies the magic cast from this wand.
-  name: Force Wand
+  description: L’argent amplifie la magie lancée depuis cette baguette.
+  name: Baguette de force
   icon_index: 152
   price: 3000
   animation_id: 19
@@ -1677,8 +1677,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: Mithril rod made of the magic mineral.
-  name: Mithril Rod
+  description: Bâton en mithril fait à partir de minéraux magiques.
+  name: Bâton en mithril
   icon_index: 152
   price: 6000
   animation_id: 19
@@ -1709,8 +1709,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: A cane made from an old tree of mistletoe.
-  name: Spirit Staff
+  description: Une canne faite d’un vieil arbre de gui.
+  name: Bâton spirituel
   icon_index: 152
   price: 15000
   animation_id: 19
@@ -1741,8 +1741,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: A magic wand embedded with the Philosopher's Stone.
-  name: Magic Wand Azert
+  description: Une baguette magique incrustée de la pierre philosophale.
+  name: Baguette magique Azert
   icon_index: 152
   price: 30000
   animation_id: 19
@@ -1773,8 +1773,8 @@
   etype_id: 0
   wtype_id: 9
 - !ruby/object:RPG::Weapon
-  description: Antique pistol with a funky brace.
-  name: Flint Lock
+  description: Pistolet antique avec une crosse étrange.
+  name: Pistolet à silex
   icon_index: 153
   price: 100
   animation_id: 91
@@ -1809,8 +1809,8 @@
   etype_id: 0
   wtype_id: 10
 - !ruby/object:RPG::Weapon
-  description: A gun used by musketeers.
-  name: Musket
+  description: Un pistolet utilisé par les mousquetaires.
+  name: Mousquet
   icon_index: 153
   price: 500
   animation_id: 91
@@ -1845,7 +1845,7 @@
   etype_id: 0
   wtype_id: 10
 - !ruby/object:RPG::Weapon
-  description: Used by the cavalry.
+  description: Utilisé par la cavalerie.
   name: Dragoon
   icon_index: 153
   price: 3000
@@ -1881,8 +1881,8 @@
   etype_id: 0
   wtype_id: 10
 - !ruby/object:RPG::Weapon
-  description: Mithril gun made of the magic mineral.
-  name: Mithril Gun
+  description: Pistolet en mithril fait à partir de minéraux magiques.
+  name: Pistolet en mithril
   icon_index: 153
   price: 6000
   animation_id: 91
@@ -1917,8 +1917,8 @@
   etype_id: 0
   wtype_id: 10
 - !ruby/object:RPG::Weapon
-  description: Revolving pistol that uses black powder.
-  name: Peacemaker
+  description: Pistolet à barillet utilisant de la poudre noire.
+  name: Pacificateur
   icon_index: 153
   price: 15000
   animation_id: 91
@@ -1953,8 +1953,8 @@
   etype_id: 0
   wtype_id: 10
 - !ruby/object:RPG::Weapon
-  description: A magical gun that shoots bullets from nothing.
-  name: Etherblast Gun
+  description: Un pistolet magique qui tire des balles à partir de rien.
+  name: Pistolet Etherblast
   icon_index: 153
   price: 30000
   animation_id: 91
